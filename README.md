@@ -36,7 +36,7 @@ Install these dependencies using the command:
 
 
 ## Links:
-- [Public Repo on GitHub](---)
+- [Public Repo on GitHub]('https://github.com/Ismoil-JS/west-todo.git')
 - [Hosted Application](---)
 
 
