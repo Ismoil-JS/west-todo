@@ -25,4 +25,4 @@ app.use('/*', (_, res) => {
 })
 app.use(ErrorHandlerMiddleware)
 
-app.listen(PORT)
+app.listen(PORT, () => console.log(`Running on ${PORT}`))
