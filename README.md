@@ -7,7 +7,7 @@ This web application is a simple todo list manager built using Node.js and Expre
 To run the application locally, follow these steps:
 
 1. Clone the repository to  local machine:
-    git clone   ////////git repo link
+    git clone  https://github.com/00016579/todo-list.git
 
 
 2. Navigate to the project directory:
