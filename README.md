@@ -37,7 +37,7 @@ Install these dependencies using the command:
 
 ## Links:
 - [Public Repo on GitHub]('https://github.com/Ismoil-JS/west-todo.git')
-- [Hosted Application](---)
+- [Hosted Application]('https://west.tasksforwork.uz/api/main')
 
 
 ## src included->
